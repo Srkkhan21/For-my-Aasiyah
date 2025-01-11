@@ -17,7 +17,7 @@ body {
 }
 
 #question-container, #ending-message {
-  background: rgba(0, 0, 0, 0.6);
+  background: hotpink;
   padding: 20px;
   border-radius: 15px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
