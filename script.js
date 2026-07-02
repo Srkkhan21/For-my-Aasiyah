@@ -1,6 +1,6 @@
 // Questions Array
 const questions = [
-  "Hey Suhana, it's Shahrukh here! Do you have time to answer some questions for me?",
+  "Hey Ashi, it's Shahrukh here! Do you have time to answer some questions for me?",
   "Do you love me as much as I love you?",
   "Will you be my forever sunshine?",
   "Would you let me be the reason behind your smile every day?",
